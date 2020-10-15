@@ -1,7 +1,7 @@
 @font-face {
-		    font-family: 'Phetsarath';
-		    src: url('https://raw.githubusercontent.com/awareautoh/phetsalathFont/blob/master/PhetsarathOTModified_28_04_14.woff2') format('woff2'),
-		         url('https://raw.githubusercontent.com/awareautoh/phetsalathFont/blob/master/PhetsarathOTModified_28_04_14.woff') format('woff');
-		    font-weight: 100;
-		    font-style: normal;
+		font-family: 'Phetsarath';
+		src: url('https://raw.githubusercontent.com/awareautoh/phetsalathFont/blob/master/PhetsarathOTModified_28_04_14.woff2') format('woff2'),
+		     url('https://raw.githubusercontent.com/awareautoh/phetsalathFont/blob/master/PhetsarathOTModified_28_04_14.woff') format('woff');
+		     font-weight: 100;
+		     font-style: normal;
 		}
