@@ -8,7 +8,7 @@ Font Liacence: Thier respective Licence*/
 	font-family: 'Phetsarath';
 	src: url('https://awareautoh.github.io/phetsalathFont/PhetsarathOTModified_28_04_14.woff2') format('woff2'),
 	     url('https://awareautoh.github.io/phetsalathFont/PhetsarathOTModified_28_04_14.woff') format('woff');
-	     font-weight: 100;
+	     font-weight: normal;
 	     font-style: normal;
 }
 /* Noto Sans Lao */
@@ -23,4 +23,12 @@ Font Liacence: Thier respective Licence*/
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+}
+/* BoonBaan */
+@font-face {
+	font-family: 'Phetsarath';
+	src: url('https://awareautoh.github.io/phetsalathFont/BoonBaan-Regular.woff2') format('woff2'),
+	     url('https://awareautoh.github.io/phetsalathFont/BoonBaan-Regular.woff') format('woff');
+	     font-weight: normal;
+	     font-style: normal;
 }
