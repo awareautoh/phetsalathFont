@@ -1,3 +1,9 @@
+/* Lao Font for web
+Version: 1 
+Created date: 18 Oct 2020 
+License: MIT 
+Font Liacence: Thier respective Licence*/ 
+/* Phetsarath */
 @font-face {
 	font-family: 'Phetsarath';
 	src: url('https://awareautoh.github.io/phetsalathFont/PhetsarathOTModified_28_04_14.woff2') format('woff2'),
@@ -5,6 +11,7 @@
 	     font-weight: 100;
 	     font-style: normal;
 }
+/* Noto Sans Lao */
 @font-face {
     font-family: 'Noto Sans Lao';
     src: url('https://awareautoh.github.io/phetsalathFont/NotoSansLao-Regular.eot');
