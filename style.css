@@ -10,6 +10,7 @@ Font Liacence: Thier respective Licence*/
 	     url('https://awareautoh.github.io/phetsalathFont/PhetsarathOTModified_28_04_14.woff') format('woff');
 	     font-weight: normal;
 	     font-style: normal;
+	     font-display: swap;
 }
 /* Noto Sans Lao */
 @font-face {
@@ -31,4 +32,5 @@ Font Liacence: Thier respective Licence*/
 	     url('https://awareautoh.github.io/phetsalathFont/BoonBaan-Regular.woff') format('woff');
 	     font-weight: normal;
 	     font-style: normal;
+	     font-display: swap;
 }
