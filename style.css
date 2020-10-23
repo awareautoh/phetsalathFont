@@ -8,8 +8,9 @@ Font Liacence: Thier respective Licence*/
 	font-family: 'Phetsarath';
 	src: url('https://awareautoh.github.io/phetsalathFont/PhetsarathOTModified_28_04_14.woff2') format('woff2'),
 	     url('https://awareautoh.github.io/phetsalathFont/PhetsarathOTModified_28_04_14.woff') format('woff');
-	     font-weight: 100;
+	     font-weight: normal;
 	     font-style: normal;
+	     font-display: swap;
 }
 /* Noto Sans Lao */
 @font-face {
@@ -24,6 +25,7 @@ Font Liacence: Thier respective Licence*/
     font-style: normal;
     font-display: swap;
 }
+<<<<<<< HEAD
 /* Lao typing4 */
 @font-face {
     font-family: 'Lao_typing4';
@@ -50,4 +52,14 @@ Font Liacence: Thier respective Licence*/
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+=======
+/* BoonBaan */
+@font-face {
+	font-family: 'BoonBaan';
+	src: url('https://awareautoh.github.io/phetsalathFont/BoonBaan-Regular.woff2') format('woff2'),
+	     url('https://awareautoh.github.io/phetsalathFont/BoonBaan-Regular.woff') format('woff');
+	     font-weight: normal;
+	     font-style: normal;
+	     font-display: swap;
+>>>>>>> 484a8070a6dce1ea86e22aec991f049422f9f975
 }
