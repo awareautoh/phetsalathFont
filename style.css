@@ -24,3 +24,30 @@ Font Liacence: Thier respective Licence*/
     font-style: normal;
     font-display: swap;
 }
+/* Lao typing4 */
+@font-face {
+    font-family: 'Lao_typing4';
+    src: url('Lao_typing4.woff2') format('woff2'),
+        url('Lao_typing4.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+/* Lao Buhan2 */
+@font-face {
+    font-family: 'Lao_Buhan2';
+    src: url('Lao_Buhan2.woff2') format('woff2'),
+        url('Lao_Buhan2.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+/* Lao Hand writing 8 */
+@font-face {
+    font-family: 'Lao_Handwriting8';
+    src: url('Lao_Handwriting8.woff2') format('woff2'),
+        url('Lao_Handwriting8.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

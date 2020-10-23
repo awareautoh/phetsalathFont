@@ -1,6 +1,6 @@
 {
   "name": "phetsalathfont",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use for include Lao fonts",
   "main": "index.js",
   "scripts": {
