@@ -25,12 +25,11 @@ Font Liacence: Thier respective Licence*/
     font-style: normal;
     font-display: swap;
 }
-<<<<<<< HEAD
 /* Lao typing4 */
 @font-face {
     font-family: 'Lao_typing4';
-    src: url('Lao_typing4.woff2') format('woff2'),
-        url('Lao_typing4.woff') format('woff');
+    src: url('https://awareautoh.github.io/phetsalathFont/Lao_typing4.woff2') format('woff2'),
+        url('https://awareautoh.github.io/phetsalathFont/Lao_typing4.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -38,8 +37,8 @@ Font Liacence: Thier respective Licence*/
 /* Lao Buhan2 */
 @font-face {
     font-family: 'Lao_Buhan2';
-    src: url('Lao_Buhan2.woff2') format('woff2'),
-        url('Lao_Buhan2.woff') format('woff');
+    src: url('https://awareautoh.github.io/phetsalathFont/Lao_Buhan2.woff2') format('woff2'),
+        url('https://awareautoh.github.io/phetsalathFont/Lao_Buhan2.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -47,12 +46,12 @@ Font Liacence: Thier respective Licence*/
 /* Lao Hand writing 8 */
 @font-face {
     font-family: 'Lao_Handwriting8';
-    src: url('Lao_Handwriting8.woff2') format('woff2'),
-        url('Lao_Handwriting8.woff') format('woff');
+    src: url('https://awareautoh.github.io/phetsalathFont/Lao_Handwriting8.woff2') format('woff2'),
+        url('https://awareautoh.github.io/phetsalathFont/Lao_Handwriting8.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-=======
+}
 /* BoonBaan */
 @font-face {
 	font-family: 'BoonBaan';
@@ -61,5 +60,4 @@ Font Liacence: Thier respective Licence*/
 	     font-weight: normal;
 	     font-style: normal;
 	     font-display: swap;
->>>>>>> 484a8070a6dce1ea86e22aec991f049422f9f975
 }
